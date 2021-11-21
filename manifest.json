@@ -4,12 +4,26 @@
     "dir": "ltr",
     "display": "standalone",
     "name": "calculatrice",
-    "orientation": "any",
+    "orientation": "portrait",
     "scope": "/",
     "short_name": "calculatrice",
     "start_url": "/",
     "theme_color": "#5f5d5d",
     "categories": [],
     "screenshots": [],
-    "shortcuts": []
+    "shortcuts": [],
+    "icons": [
+      {
+        "src": "./icon-1.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any"
+      },
+      {
+        "src": "./icon-2.png",
+        "type": "image/png",
+        "sizes": "144x144",
+        "purpose": "any"
+      }
+    ]
   }
