@@ -1,0 +1,15 @@
+{
+    "background_color": "#272626",
+    "description": "Calculatrice",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "calculatrice",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "calculatrice",
+    "start_url": "/",
+    "theme_color": "#5f5d5d",
+    "categories": [],
+    "screenshots": [],
+    "shortcuts": []
+  }
